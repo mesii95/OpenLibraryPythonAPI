@@ -1,0 +1,65 @@
+{
+  "ISBN:978-1259642586": {
+    "info_url": "https://openlibrary.org/books/OL27373461M/Standard_Handbook_for_Electrical_Engineers_Seventeenth_Edition",
+    "bib_key": "ISBN:978-1259642586",
+    "preview_url": "https://openlibrary.org/books/OL27373461M/Standard_Handbook_for_Electrical_Engineers_Seventeenth_Edition",
+    "thumbnail_url": "https://covers.openlibrary.org/b/id/8836657-S.jpg",
+    "details": {
+      "publishers": [
+        "McGraw-Hill Education"
+      ],
+      "number_of_pages": 1648,
+      "key": "/books/OL27373461M",
+      "source_records": [
+        "amazon:1259642585"
+      ],
+      "title": "Standard Handbook for Electrical Engineers, Seventeenth Edition",
+      "type": {
+        "key": "/type/edition"
+      },
+      "identifiers": {
+        "amazon": [
+          "1259642585"
+        ]
+      },
+      "covers": [
+        8836657
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-07T15:08:33.938780"
+      },
+      "isbn_13": [
+        "9781259642586"
+      ],
+      "full_title": "Standard Handbook for Electrical Engineers, Seventeenth Edition",
+      "isbn_10": [
+        "1259642585"
+      ],
+      "latest_revision": 1,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-07T15:08:33.938780"
+      },
+      "authors": [
+        {
+          "name": "Surya Santoso",
+          "key": "/authors/OL2636355A"
+        },
+        {
+          "name": "H. Wayne Beaty",
+          "key": "/authors/OL224810A"
+        }
+      ],
+      "publish_date": "Jan 08, 2018",
+      "works": [
+        {
+          "key": "/works/OL20187866W"
+        }
+      ],
+      "physical_format": "hardcover",
+      "revision": 1
+    },
+    "preview": "noview"
+  }
+}

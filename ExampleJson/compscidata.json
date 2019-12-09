@@ -1,0 +1,45 @@
+{
+  "ISBN:0134076427": {
+    "publishers": [
+      {
+        "name": "Addison-Wesley Professional"
+      }
+    ],
+    "identifiers": {
+      "isbn_13": [
+        "9780134076423"
+      ],
+      "amazon": [
+        "0134076427"
+      ],
+      "isbn_10": [
+        "0134076427"
+      ],
+      "openlibrary": [
+        "OL27442527M"
+      ]
+    },
+    "subtitle": "An Interdisciplinary Approach",
+    "title": "Computer Science",
+    "url": "https://openlibrary.org/books/OL27442527M/Computer_Science",
+    "notes": "Source title: Computer Science: An Interdisciplinary Approach",
+    "number_of_pages": 1168,
+    "cover": {
+      "small": "https://covers.openlibrary.org/b/id/8902454-S.jpg",
+      "large": "https://covers.openlibrary.org/b/id/8902454-L.jpg",
+      "medium": "https://covers.openlibrary.org/b/id/8902454-M.jpg"
+    },
+    "publish_date": "Jun 25, 2016",
+    "key": "/books/OL27442527M",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL5448155A/Robert_Sedgewick",
+        "name": "Robert Sedgewick"
+      },
+      {
+        "url": "https://openlibrary.org/authors/OL3437803A/Kevin_Wayne",
+        "name": "Kevin Wayne"
+      }
+    ]
+  }
+}

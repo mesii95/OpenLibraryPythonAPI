@@ -1,0 +1,70 @@
+{
+  "ISBN:0134076427": {
+    "info_url": "https://openlibrary.org/books/OL27442527M/Computer_Science",
+    "bib_key": "ISBN:0134076427",
+    "preview_url": "https://openlibrary.org/books/OL27442527M/Computer_Science",
+    "thumbnail_url": "https://covers.openlibrary.org/b/id/8902454-S.jpg",
+    "details": {
+      "publishers": [
+        "Addison-Wesley Professional"
+      ],
+      "number_of_pages": 1168,
+      "subtitle": "An Interdisciplinary Approach",
+      "key": "/books/OL27442527M",
+      "source_records": [
+        "amazon:0134076427"
+      ],
+      "title": "Computer Science",
+      "type": {
+        "key": "/type/edition"
+      },
+      "notes": {
+        "type": "/type/text",
+        "value": "Source title: Computer Science: An Interdisciplinary Approach"
+      },
+      "identifiers": {
+        "amazon": [
+          "0134076427"
+        ]
+      },
+      "covers": [
+        8902454
+      ],
+      "created": {
+        "type": "/type/datetime",
+        "value": "2019-10-13T20:18:44.634755"
+      },
+      "isbn_13": [
+        "9780134076423"
+      ],
+      "full_title": "Computer Science An Interdisciplinary Approach",
+      "isbn_10": [
+        "0134076427"
+      ],
+      "latest_revision": 1,
+      "last_modified": {
+        "type": "/type/datetime",
+        "value": "2019-10-13T20:18:44.634755"
+      },
+      "authors": [
+        {
+          "name": "Robert Sedgewick",
+          "key": "/authors/OL5448155A"
+        },
+        {
+          "name": "Kevin Wayne",
+          "key": "/authors/OL3437803A"
+        }
+      ],
+      "publish_date": "Jun 25, 2016",
+      "works": [
+        {
+          "key": "/works/OL20246829W"
+        }
+      ],
+      "physical_format": "hardcover",
+      "revision": 1
+    },
+    "preview": "noview"
+  }
+}

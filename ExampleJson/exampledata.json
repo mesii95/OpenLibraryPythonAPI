@@ -1,0 +1,1393 @@
+{
+  "ISBN:9781285741550": {
+    "pagination": "1 volume (various pagings)",
+    "identifiers": {
+      "isbn_13": [
+        "9781285741550",
+        "9781305272354",
+        "9781305270367"
+      ],
+      "lccn": [
+        "2014951195"
+      ],
+      "openlibrary": [
+        "OL26884974M"
+      ],
+      "isbn_10": [
+        "1285741552",
+        "1305270363"
+      ],
+      "oclc": [
+        "884617308"
+      ]
+    },
+    "table_of_contents": [
+      {
+        "title": "Preface",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "To the student",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Diagnostic tests",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "A preview of calculus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "1. Functions and models",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "1.1. Four ways to represent a function",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "1.2. Mathematical models : a catalog of essential functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "1.3. New functions from old functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "1.4. Graphing calculators and computers",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "1.5. Exponential functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "1.6. Inverse functions and logarithms",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Principles of problem solving",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2. Limits and derivatives",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.1. The tangent and velocity problems",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.2. The limit of a function",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.3. Calculating limits using the limit laws",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.4. The precise definition of a limit",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.5. Continuity",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.6. Limits at infinity ; horizontal asymptotes",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.7. Derivatives and rates of change",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Writing project : early methods for finding tangents",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "2.8. The derivative as a function",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3. Differentiation rules",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.1. Derivatives of polynomials and exponential functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : building a better roller coaster",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.2. The product and quotient rules",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.3. Derivatives of trigonometric functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.4. The chain rule",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : where should a pilot start descent?",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.5. Implicit differentiation",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.6. Derivatives of logarithmic functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.7. Rates of change in the natural and social sciences",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.8. Exponential growth and decay",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.9. Related rates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.10. Linear approximations and differentials",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Laboratory project : Taylor polynomials",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "3.11. Hyperbolic functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4. Applications of differentiation",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.1. Maximum and minimum values",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : the calculus of rainbows",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.2. The mean value theorem",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.3. How derivatives affect the shape of a graph",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.4. Indeterminate forms and L'Hospital's rule",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Writing project : the origins of L'Hospital's rule",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.5. Summary of curve sketching",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.6. Graphing with calculus and calculators",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.7. Optimization problems",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : the shape of a can",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : Planes and birds: Minimizing energy",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.8. Newton's method",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "4.9. Antiderivatives",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "5. Integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "5.1. Areas and distances",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "5.2. The definite integral",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : area functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "5.3. The fundamental theorem of calculus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "5.4. Indefinite integrals and the net change theorem",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Writing project : Newton, Leibniz, and the invention of calculus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "5.5. The substitution rule",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "6. Application of integration",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "6.1. Areas between curves",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : the gini index",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "6.2. Volumes",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "6.3. Volumes by cylindrical shells",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "6.4. Work",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "6.5. Average value of a function",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied projects : calculus and baseball",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied projects : where to sit at the movies",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7. Techniques of integration",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.1. Integration by parts",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.2. Trigonometric integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.3. Trigonometric substitution",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.4. Integration of rational functions by partial fractions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.5. Strategy for integration",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.6. Integration using tables and computer algebra systems",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : patterns in integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.7. Approximate integration",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "7.8. Improper integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "8. Further applications of integration",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "8.1. Arc length",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : arc length contest",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "8.2. Area of a surface of revolution",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : rotating on a slant",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "8.3. Applications to physics and engineering",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : complementary coffee cups",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "8.4. Applications to economics and biology",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "8.5. Probability",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "9. Differential equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "9.1. Modeling with differential equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "9.2. Direction fields and Euler's method",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "9.3. Separable equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : how fast does a tank drain?",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : which is faster, going up or coming down?",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "9.4. Models for population growth",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "9.5. Linear equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "9.6. Predator-prey systems",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "10. Parametric equations and polar coordinates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "10.1. Curves defined by parametric equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Laboratory project : running circles around circles",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "10.2. Calculus with parametric curves",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Laboratory project : Bézier curves",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "10.3. Polar coordinates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Laboratory project : Families of polar curves 10.4. Areas and lengths in polar coordinates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "10.5. Conic sections",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "10.6. Conic sections in polar coordinates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11. Infinite sequences and series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.1. Sequences",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Laboratory project : logistic sequences",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.2. Series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.3. The integral test and estimates of sums",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.4. The comparison tests",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.5. Alternating series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.6. Absolute convergence and the ratio and root tests",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.7. Strategy for testing series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.8. Power series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.9. Representations of functions as power series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.10. Taylor and Maclaurin series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Laboratory project : an elusive limit",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Writing project : how Newton discovered the binomial series",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "11.11. Applications of Taylor polynomials",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : radiation from the stars",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "12. Vectors and geometry of space",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "12.1. Three-dimensional coordinate systems",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "12.2. Vectors",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "12.3. The dot product",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "12.4. The cross product",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : the geometry of a tetrahedrom",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "12.5. Equations of lines and planes",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Laboratory project : putting 3D in perspective",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "12.6. Cylinders and quadric surfaces",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "13. Vector functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "13.1. Vector functions and space curves",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "13.2. Derivatives and integrals of vector functions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "13.3. Arc length and curvature",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "13.4. Motion in space : velocity and acceleration",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : Kepler's laws",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14. Partial derivatives",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.1. Functions of several variables",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.2. Limits and continuity",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.3. Partial derivatives",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.4. Tangent planes and linear approximations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project ; the speedo LZR racer",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.5. The chain rule",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.6. Directional derivatives and the gradient vector",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.7. Maximum and minimum values",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : designing a dumpster",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : quadratic approximation and critical points",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "14.8. Lagrange multipliers",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : rocket science",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : hydro-turbine optimization",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15. Multiple integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.1. Double integrals over rectangles",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.2. Double integrals over general regions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.3. Double integrals in polar coordinates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.4. Applications of double integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.5. Surface area",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.6. Triple integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : volumes of hyperspheres",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.7. Triple integrals in cylindrical coordinates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Discovery project : the intersection of three cylinders",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.8. Triple integrals in spherical coordinates",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Applied project : roller derby",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "15.9. Change of variables in multiple integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16. Vector calculus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.1. Vector fields",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.2. Line integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.3. The fundamental theorem for line integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.4. Green's theorem",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.5. Curl and divergence",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.6. Parametric surfaces and their areas",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.7. Surface integrals",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.8. Stokes' theorem",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Writing project : three men and two theorems",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.9. The divergence theorem",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "16.10. Summary",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Problems plus",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "17. Second-order differential equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "17.1. Second-order linear equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "17.2. Nonhomogeneous linear equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "17.3. Applications of second-order differential equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "17.4. Series solutions",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Review",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Appendixes",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "A. Numbers, inequalities, and absolute values",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "B. Coordinate geometry and lines",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "C. Graphs of second-degree equations",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "D. Trigonometry",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "E. Sigma notation",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "F. Proofs of theorems",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "G. The logarithm defined as an integral",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "H. Complex numbers",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "I. Answers to odd-numbered exercises",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      },
+      {
+        "title": "Index.",
+        "label": "",
+        "pagenum": "",
+        "level": 0
+      }
+    ],
+    "title": "Calculus",
+    "url": "https://openlibrary.org/books/OL26884974M/Calculus",
+    "classifications": {
+      "lc_classifications": [
+        "QA303.2 .S7315 2016"
+      ]
+    },
+    "notes": "Includes index.",
+    "authors": [
+      {
+        "url": "https://openlibrary.org/authors/OL2652258A/James_Stewart",
+        "name": "James Stewart"
+      }
+    ],
+    "subjects": [
+      {
+        "url": "https://openlibrary.org/subjects/calculus",
+        "name": "Calculus"
+      },
+      {
+        "url": "https://openlibrary.org/subjects/textbooks",
+        "name": "Textbooks"
+      }
+    ],
+    "publish_date": "2016",
+    "key": "/books/OL26884974M",
+    "by_statement": "James Stewart, McMaster University and University of Toronto",
+    "subtitle": "early transcendentals"
+  }
+}
