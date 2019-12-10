@@ -19,25 +19,25 @@ getter. ex: object.title()
     _all_isbn_13 = None
     
 
-#Example use case:
+Example use case:
   
-  from BookMeta.OpenLibrary import *
+    from BookMeta.OpenLibrary import *
   
-  valid_isbn = '978-0486404530'
+    valid_isbn = '978-0486404530'
   
-  book = OpenLib(valid_isbn)
-  
-  print(book)
+    book = OpenLib(valid_isbn)
+   
+    print(book)
 
-#Output:
+Output:
 
-  Title: Calculus
-  Subtitle: an intuitive and physical approach
-  Edition: 2
-  Author: ['Morris Kline']
-  Publisher: ['Dover Publications']
-  Subject: ['Calculus']
-  Input ISBN: 9780486404530
-  All ISBN-10: ['0486404536']
-  All ISBN-13: None
+    Title: Calculus
+    Subtitle: an intuitive and physical approach
+    Edition: 2
+    Author: ['Morris Kline']
+    Publisher: ['Dover Publications']
+    Subject: ['Calculus']
+    Input ISBN: 9780486404530
+    All ISBN-10: ['0486404536']
+    All ISBN-13: None
   
