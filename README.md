@@ -9,5 +9,7 @@ their provided REST API.
 Example use case:
 
   valid_isbn = 978-0486404530
+  
   book = OpenLib(valid_isbn)
+  
   print(book)
